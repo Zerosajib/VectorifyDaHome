@@ -1,5 +1,7 @@
 # <img src ="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png" width=24> Vectorify da home!
 
+ icon app for android. 
+
 
 ###### Current version: [(30) 1.6.2](https://github.com/enricocid/VectorifyDaHome/releases/tag/v1.6.2)
 
